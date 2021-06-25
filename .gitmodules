@@ -1,0 +1,9 @@
+[submodule "sutils/jobstats"]
+	path = sutils/jobstats
+	url = https://github.com/fpolit/jobstats.git
+[submodule "sutils/slurm-utils"]
+	path = sutils/slurm_utils
+	url = https://github.com/fpolit/slurm-utils.git
+[submodule "sutils/slurmtools"]
+	path = sutils/slurmtools
+	url = https://github.com/fpolit/slurmtools.git
